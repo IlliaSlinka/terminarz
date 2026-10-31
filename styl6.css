@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana;
+}
+
+header {
+    background-color: #6F79A8;
+    color: white;
+    height: 140px;
+    display: flex;
+}
+
+main {
+    display: flex;
+}
+
+#lewy_baner {
+    width: 30%;
+}
+
+#prawy_baner {
+    width: 70%;
+}
+
+#kalendarz {
+    background-color: #9FA8DA;
+    width: 160px;
+    height: 86px;
+    margin: 5px;
+    border: solid 1px #6f79a8;
+    overflow: hidden;
+}
+
+#kalendarz:hover {
+    background-color: #6F79A8;
+    color: white;
+}
+
+footer {
+    background-color: #6F79A8;
+    color: white;
+    padding: 5px;
+    text-align: right;
+}
+
+h6 {
+    text-align: center;
+}
+
